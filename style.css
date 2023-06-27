@@ -1,0 +1,31 @@
+* {
+    margin-top: 0;
+}
+
+body {
+    position: relative;
+    padding-bottom: 3em;
+    min-height: 100vh;
+}
+
+.btn1 {
+    background-color: tomato;
+    border: 1px solid tomato;
+}
+
+
+footer {
+    width: 100%;
+    background-color: silver;
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+}
+
+h6 {
+    margin-top: 5px;
+}
+
+.link-cilsa {
+    color: rgb(8, 165, 34);
+}
